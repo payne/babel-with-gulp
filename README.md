@@ -18,3 +18,4 @@ _/src/app.js_ file as an entry point.
 
 # Enhancing
 1. Reading http://mitchgavan.com/es6-modules/ hopefully will help me put some jQuery in here.
+1. Hello world jQuery is working.  Try it live at http://mattpayne.org/babel-with-gulp/
